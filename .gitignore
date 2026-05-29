@@ -1,0 +1,16 @@
+# Executáveis e Binários (pasta bin inteira ou extensões soltas)
+bin/
+*.exe
+*.out
+*.app
+
+# Arquivos de compilação C++
+*.o
+*.obj
+
+# Configurações locais do editor (não precisa subir pro Git)
+.vscode/
+
+# Arquivos temporários de Sistema Operacional
+.DS_Store
+Thumbs.db
